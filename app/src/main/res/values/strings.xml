@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PushNotifications</string>
+    <string name="schedule_notification">Schedule Notification</string>
+    <string name="default_notification_channel_id">testChannel</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="subscribe_to_topic">Subscribe to topic</string>
+    <string name="NOTIFICATION_TITLE">notification_title</string>
+    <string name="NOTIFICATION_MESSAGE">notification_message</string>
+    <string name="NOTIFICATION_IMG">notification_image</string>
+</resources>
